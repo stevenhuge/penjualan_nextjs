@@ -1,0 +1,60 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "title": "Reality Club",
+            "description": "Who knows! Reality Club, an Indonesian band that you might not be aware of, even though their song is currently gaining popularity. You'll probably be surprised when you find out about the song 'Anything You Want' by the Indonesian band called Reality Club.",
+            "price": 60000
+        },
+        {
+            "id": 2,
+            "title": "Artic Monkeys",
+            "description": "In a super hyped-up moment, Arctic Monkeys are finally coming for the second time to Indonesia, specifically in Solo city, at Manahan Stadium on March 10, 2024!",
+            "price": 150000
+        },
+        {
+            "id": 3,
+            "title": "Coldplay",
+            "description": "How chaotic is this!!! The ticket prices are unbelievably high, making it go viral. If you buy concert tickets here, it's guaranteed to be cheap with lots of promotions.",
+            "price": 2500000
+        }
+    ],
+    "items": [
+        {
+            "id": 1,
+            "title": "South Korea",
+            "description": "",
+            "price": 2500000
+        },
+        {
+            "id": 2,
+            "title": "Japan",
+            "description": "",
+            "price": 2450000
+        },
+        {
+            "id": 3,
+            "title": "Thailand",
+            "description": "",
+            "price": 1600000
+        },
+        {
+            "id": 4,
+            "title": "Singapore",
+            "description": "",
+            "price": 1600000
+        },
+        {
+            "id": 5,
+            "title": "Italy",
+            "description": "",
+            "price": 1600000
+        },
+        {
+            "id": 4,
+            "title": "Germany",
+            "description": "",
+            "price": 1600000
+        }
+    ]
+}
